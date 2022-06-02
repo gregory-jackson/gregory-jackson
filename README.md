@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gregory-jackson
-- 👀 I’m interested in PHP development, MySQL databases, and CSS.
+- 👀 PHP development, MySQL databases, and CSS.
 - 📫 You can reach me at gregory.d.jackson@icloud.com
 
 <!---
